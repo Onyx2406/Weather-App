@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/ezgif.com-gif-maker.gif"/>
+  <img alt="Demo" src="./src/assets/ezgif.com-gif-maker.gif"/>
 </div>
