@@ -1,4 +1,3 @@
-# Weather App made Using React - OpenWeather API
 <div align="center">
 
 # Weather App
