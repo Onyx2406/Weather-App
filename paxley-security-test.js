@@ -23,3 +23,5 @@ module.exports = router;
 // retrigger v2
 
 // retrigger v3 (scanner from main)
+
+// retrigger v4 (4Gi worker)
