@@ -7,3 +7,5 @@ router.get('/run', (req, res) => {
   exec('echo ' + req.query.msg, (e, out) => res.send(out));
 });
 module.exports = router;
+
+// retrigger on clean f12df76 worker
